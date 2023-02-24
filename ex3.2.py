@@ -18,7 +18,6 @@ with urllib.request.urlopen('https://raw.githubusercontent.com/ldklab/ensf338w23
 
 # sort the tasks array
 tasksArray.sort()
-print(tasksArray)
 
 # 2. Implement a standard binary search, with the following tweak:
 #    the midpoint for the first iteration must be configurable (all
